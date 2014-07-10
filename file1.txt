@@ -10,6 +10,8 @@ segunda line
 tercera line
 probando nuevamente el commit directo
 
+Metiendo esta linea para evitar el push
+
 
 Esta linea fue agregada desde github
 nueva linea para conflictear
