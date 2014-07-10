@@ -19,3 +19,5 @@ patch test
 segunda linea de patch
 aca estoy de nuevo en el master
 Corrigiendo el hotfix
+corrigiendo iss53
+agregamos otro detalle para el iss53
