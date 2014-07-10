@@ -19,3 +19,4 @@ patch test
 segunda linea de patch
 aca estoy de nuevo en el master
 corrigiendo iss53
+agregamos otro detalle para el iss53
