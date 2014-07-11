@@ -32,5 +32,8 @@ hola master
 Hola master2
 En el master
 Experimentando
-haciendo conflicto 1
+<<<<<<< HEAD
 conflicto2
+=======
+haciendo conflicto 1
+>>>>>>> experimento
